@@ -48,6 +48,7 @@
     "lodash": "^3.10.1",
     "mustache": "^2.2.1",
     "prompt": "^0.2.14",
+    "stash-api": "^1.1.0",
     "svn-info": "^0.2.1"
   },
   "devDependencies": {

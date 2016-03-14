@@ -18,6 +18,9 @@
         { "arg": "--github-auth-pass <githubAuthPass>", "desc": "GitHub authentication password" },
         { "arg": "--gitorious-url <gitoriousUrl>", "desc": "Gitorious URL" },
         { "arg": "--gitorious-project <gitoriousProject>", "desc": "Comma-separated Gitorious projects" },
+        { "arg": "--stash-url <stashUrl>", "desc": "Stash URL" },
+        { "arg": "--stash-auth-user <stashAuthUser>", "desc": "Stash authentication username" },
+        { "arg": "--stash-auth-pass <stashAuthPass>", "desc": "Stash authentication password" },
         { "arg": "--local", "desc": "Create configuration file from local repositories" }
       ],
       "examples": [
